@@ -3,9 +3,10 @@
 - 🌱 I’m currently studing in B.Tech(IT).
 - 👩‍💻 I'm intrested in Learning new Technologies.
 
+<!--
 <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Kiran&show_icons=true&theme=radical" />
 <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran&layout=compact" />
-
+-->
 
 
 <!--
