@@ -1,6 +1,6 @@
 ### Hi, I'm Kiran Patel 👋
 
-- 🌱 I’m currently studing in B.Tech(IT).
+- 🔭 I’m currently working as Application Developer in ERP system.
 - 👩‍💻 I'm intrested in Learning new Technologies.
 
 <!--
